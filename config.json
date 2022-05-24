@@ -7,8 +7,8 @@
         "highlight":"#7187FF"
       },
       "light":{
-        "background":"#FFFFFF",
-        "text":"#000000",
+        "background":"##F3DDC3",
+        "text":"#1F1E42",
         "highlight":"#7187FF"
       }
     },
