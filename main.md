@@ -15,7 +15,34 @@ Codex is building a sustainable network of storage nodes through incentivised pa
 enable data durability through proof based storage incentives and churn-resistant redundancy;
 provide a new storage engine that can equally be used for private and public storage, and to support
 distributed Web3 applications; support the participation of light-weight clients such as mobile phones;
-
-
-
+```
+{
+  "theme":{
+    "palettes":{
+      "dark":{
+        "background":"#1F1E42",
+        "text":"#F3DDC3",
+        "highlight":"#7187FF"
+      },
+      "light":{
+        "background":"#F3DDC3",
+        "text":"#1F1E42",
+        "highlight":"#7187FF"
+      }
+    },
+    "fontFamily":"monospace",
+    "codeTheme": "arta.css"
+  },
+  "template": "default",
+  "assets":{
+    "logo":"static-assets/codex-logo.svg"
+  },
+  "navigation":{
+    "home":"main.md",
+    "fileOrdersInSidenav": [
+      "main.md"
+    ],
+    "folderOrdersInSidenav": []
+  }
+```
 
