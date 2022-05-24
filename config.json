@@ -15,7 +15,7 @@
     "fontFamily":"monospace"
   },
   "assets":{
-    "logo":"static-assets/logos-logo.svg"
+    "logo":"static-assets/codex-logo.svg"
   },
   "navigation":{
     "home":"main.md",
