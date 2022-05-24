@@ -2,13 +2,13 @@
   "theme":{
     "palettes":{
       "dark":{
-        "background":"#1F1E42",
-        "text":"#F3DDC3",
+        "background":"#161719",
+        "text":"#F9D8B6",
         "highlight":"#7187FF"
       },
       "light":{
-        "background":"#F3DDC3",
-        "text":"#1F1E42",
+        "background":"#F9D8B6",
+        "text":"#161719",
         "highlight":"#7187FF"
       }
     },
