@@ -2,8 +2,8 @@
   "theme":{
     "palettes":{
       "dark":{
-        "background":"#000000",
-        "text":"#FFFFFF",
+        "background":"#1F1E42",
+        "text":"#F3DDC3",
         "highlight":"#7187FF"
       },
       "light":{
@@ -15,9 +15,12 @@
     "fontFamily":"monospace"
   },
   "assets":{
-    "logo":"statics/logos-logo.svg"
+    "logo":"static-assets/logos-logo.svg"
   },
   "navigation":{
-    "home":"index.md"
+    "home":"main.md",
+    "fileOrdersInSidenav": [
+      "main.md"
+    ],
+    "folderOrdersInSidenav": []
   }
-}
