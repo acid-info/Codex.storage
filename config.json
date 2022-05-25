@@ -2,8 +2,8 @@
   "theme":{
     "palettes":{
       "dark":{
-        "background":"#161719",
-        "text":"#F9D8B6",
+        "background":"#1F1E42",
+        "text":"#F3DDC3",
         "highlight":"#7187FF"
       },
       "light":{
@@ -13,17 +13,29 @@
       }
     },
     "fontFamily":"monospace",
-    "codeTheme": "arta.css"
+    "codeTheme": "base16/windows-10.css"
   },
   "template": "default",
-  "assets":{
-    "logo":"static-assets/codex-logo.svg"
-  },
+  "static_assets_folder": "static-assets",
   "navigation":{
     "home":"main.md",
     "fileOrdersInSidenav": [
       "main.md"
     ],
-    "folderOrdersInSidenav": []
+    "folderOrdersInSidenav": [
+    ]
+  },
+  "ds_id": "codex",
+  "seo": {
+    "title": "Codex",
+    "description": "Codex is a decentralized file storage network.",
+    "image": "codex-site-preview-image.png",
+    "url": "https://codex-storage.vercel.app",
+    "social_media": [
+      {
+        "provider": "twitter",
+        "handler": "ethstatus"
+      }
+    ]
   }
 }
