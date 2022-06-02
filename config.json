@@ -2,39 +2,54 @@
   "theme":{
     "palettes":{
       "dark":{
-        "background":"#1F1E42",
-        "text":"#F3DDC3",
-        "highlight":"#7187FF"
+        "background":"#161719",
+        "text":"#FFFFFF",
+        "accentActive":"#7187FF",
+        "accentMute":"#36383D"
       },
       "light":{
-        "background":"#F3DDC3",
-        "text":"#1F1E42",
-        "highlight":"#7187FF"
+        "background":"#FFFFFF",
+        "text":"#161719",
+        "accentActive":"#7187FF",
+        "accentMute":"#36383D"
       }
     },
     "fontFamily":"monospace",
-    "codeTheme": "base16/windows-10.css"
+    "codeTheme":"prism/duotone-dark"
   },
   "template": "default",
   "static_assets_folder": "static-assets",
+  "external_sources": [
+    {
+      "url": "https://github.com/status-im/codex-research/archive/refs/heads/main.zip",
+      "sourcePath": null,
+      "targetPath": "research",
+      "embed": true
+    }
+  ],
   "navigation":{
     "home":"main.md",
     "fileOrdersInSidenav": [
-      "main.md"
+      "main.md",
+      "about.md"
     ],
     "folderOrdersInSidenav": [
-    ]
+      "try",
+      "implementations",
+      "blog"
+    ],
+    "external_links": []
   },
   "ds_id": "codex",
   "seo": {
     "title": "Codex",
-    "description": "Codex is a decentralized file storage network.",
-    "image": "codex-site-preview-image.png",
-    "url": "https://codex-storage.vercel.app",
+    "description": "Codex is a Decentralized Durability Engine",
+    "image": "logos-site-preview-image.png",
+    "url": "https://codex-storage-v0.vercel.app",
     "social_media": [
       {
         "provider": "twitter",
-        "handler": "ethstatus"
+        "handler": "vacp2p"
       }
     ]
   }
