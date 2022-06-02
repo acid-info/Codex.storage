@@ -45,7 +45,7 @@
     "title": "Codex",
     "description": "Codex is a Decentralized Durability Engine",
     "image": "logos-site-preview-image.png",
-    "url": "https://codex-storage-v0.vercel.app",
+    "url": "https://staging.codex.storage",
     "social_media": [
       {
         "provider": "twitter",
