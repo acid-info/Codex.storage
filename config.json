@@ -19,8 +19,7 @@
   },
   "template": "default",
   "static_assets_folder": "static-assets",
-  "external_sources": [
-  ],
+  "external_sources": [],
   "navigation":{
     "home":"main.md",
     "fileOrdersInSidenav": [
