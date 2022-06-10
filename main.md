@@ -13,6 +13,6 @@ we achieve this with data placement techniques that minimize the likelyhood of d
 #### Repair
 we use data auditing techniques to detect and repair data loss, thus maintaining expected levels of redundancy.
 #### Auditing 
-we rely on cryptographic techniques to detect data loss at scale in very large datasets and operate in byzantine environments.
+we rely on cryptographic techniques that detect data loss at scale in very large datasets and operate in byzantine environments.
 #### Incentives
 we use incentives to compensate for resources contributed to the system and increase it's overall sustainability.
