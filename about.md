@@ -4,4 +4,4 @@ category: page
 ---
 ## About Codex
 
-Codex is a research project about decentralized storage and it is under Logos.
+Codex is a research project working in all areas of decentralized storage.
