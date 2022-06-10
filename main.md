@@ -14,4 +14,4 @@ Users can also stake their CODX in order to earn staking rewards and unlock addi
 Codex is building a sustainable network of storage nodes through incentivised participation;
 enable data durability through proof based storage incentives and churn-resistant redundancy;
 provide a new storage engine that can equally be used for private and public storage, and to support
-distributed Web3 applications; support the participation of light-weight clients such as mobile phones;
+distributed Web3 applications; support the participation of light-weight clients such as mobile phones.
