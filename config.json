@@ -39,11 +39,6 @@
     "description": "Codex is a Decentralized Durability Engine",
     "image": "codex-preview-image.png",
     "url": "https://staging.codex.storage",
-    "social_media": [
-      {
-        "provider": "twitter",
-        "handler": "vacp2p"
-      }
-    ]
+    "social_media": []
   }
 }
