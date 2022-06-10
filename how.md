@@ -1,5 +1,5 @@
 ---
-title: How Does It Work?
+title: How
 category: page
 ---
 ## How Does It Work?
