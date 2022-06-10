@@ -21,7 +21,7 @@
   "static_assets_folder": "static-assets",
   "external_sources": [],
   "navigation":{
-    "home":"main.md",
+    "home":"what.md",
     "fileOrdersInSidenav": [
       "what.md",
       "why.md",
