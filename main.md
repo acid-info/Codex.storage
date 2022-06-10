@@ -1,14 +1,10 @@
 # Codex is building a Decentralized Durability Engine
 
-TODO 
-- Change font of Codex website to match Vac's
-- Three pages below each consists of a 3-4 sentences summary.
-
-# What is Codex?
+## What is Codex?
 
 - Codex is aiming to solve the fundamental issues of data durability in decentralized systems
 
-# How does it work?
+## How does it work?
 
 #### Redundancy
 we achieve this with the use of erasure coding techniques, which are overall superior to replication and have additional properties that contribute to durability.
