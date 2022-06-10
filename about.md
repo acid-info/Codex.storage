@@ -2,10 +2,9 @@
 title: About
 category: page
 ---
-## Quod per
+## About Codex
 
-Differt intrat purpura: habitandae sic! Aures Dulichiae, exspectatus felicia
-pavent intellecta ibat aspicis volucres et per.
+Codex is a research project about decentralized storage and it is under the Logos umbrella.
 
 > Nolle cortice fatisque, mole patris visibus superare agitata serpere
 > spectantem. Funera loca mihi sed [urnam
