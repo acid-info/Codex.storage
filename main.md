@@ -4,24 +4,8 @@
 
 Codex is aiming to solve the fundamental issues of data durability in decentralized systems
 
-## How does it work?
+Codex is a research group working in all areas of decentralized storage.
 
-**Redundancy**
+Codex is a decentralized storage protocol for durable information. 
 
-We achieve this with the use of erasure coding techniques, which are overall superior to replication and have additional properties that contribute to durability.
-
-**Uncorrelatedness**
-
-We achieve this with data placement techniques that minimize the likelyhood of data loss when a node or group of nodes fail.
-
-**Repair**
-
-We use data auditing techniques to detect and repair data loss, thus maintaining expected levels of redundancy.
-
-**Auditing**
-
-We rely on cryptographic techniques that detect data loss at scale in very large datasets and operate in byzantine environments.
-
-**Incentives**
-
-We use incentives to compensate for resources contributed to the system and increase it's overall sustainability.
+Whilst p2p storage networks have been around for quite a long time, the lack of incentives, strong data availability, and durability guarantees make these networks unsuitable for a wide array of applications.  In other words, without durablity at the storage layer it is impossible to build reliable applications.
