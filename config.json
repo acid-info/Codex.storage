@@ -23,8 +23,9 @@
   "navigation":{
     "home":"main.md",
     "fileOrdersInSidenav": [
-      "main.md",
-      "about.md"
+      "what.md",
+      "why.md",
+      "how.md"
     ],
     "folderOrdersInSidenav": [
       "try",
@@ -39,6 +40,6 @@
     "description": "Codex is a Decentralized Durability Engine",
     "image": "codex-preview-image.png",
     "url": "https://staging.codex.storage",
-    "social_media": []
+    "social_media": [https://discord.gg/4qdQN5JaWW]
   }
 }
