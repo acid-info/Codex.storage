@@ -2,7 +2,7 @@
 
 ## What is Codex?
 
-- Codex is aiming to solve the fundamental issues of data durability in decentralized systems
+### Codex is aiming to solve the fundamental issues of data durability in decentralized systems
 
 ## How does it work?
 
