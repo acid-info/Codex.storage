@@ -19,14 +19,7 @@
   },
   "template": "default",
   "static_assets_folder": "static-assets",
-  "external_sources": [
-    {
-      "url": "https://github.com/status-im/codex-research/archive/refs/heads/main.zip",
-      "sourcePath": null,
-      "targetPath": "research",
-      "embed": true
-    }
-  ],
+  "external_sources": [],
   "navigation":{
     "home":"main.md",
     "fileOrdersInSidenav": [
