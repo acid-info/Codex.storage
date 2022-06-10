@@ -14,7 +14,7 @@
         "accentMute":"#36383D"
       }
     },
-    "fontFamily":"monospace",
+    "fontFamily":"sans-serif",
     "codeTheme":"prism/duotone-dark"
   },
   "template": "default",
