@@ -1,13 +1,13 @@
 {
   "theme":{
     "palettes":{
-      "dark":{
+      "light":{
         "background":"#161719",
         "text":"#FFFFFF",
         "accentActive":"#7187FF",
         "accentMute":"#36383D"
       },
-      "light":{
+      "dark":{
         "background":"#FFFFFF",
         "text":"#161719",
         "accentActive":"#7187FF",
