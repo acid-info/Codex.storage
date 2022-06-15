@@ -1,6 +1,5 @@
 ---
 title: How
-category: page
 ---
 ## How Does It Work?
 
