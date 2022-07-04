@@ -24,7 +24,7 @@ This program is available to undergraduate and graduate students officially enro
 
 ## The grant
 
-The CIP is very flexible and adapts to different levels of experience as well as to different internship lengths. The following numbers are just indicative, as the final stipend might slightly change depending on the student experience as well as to adapt to differing regions' cost. For an officially enrolled *graduate student*, the CIP offers a student stipend in the range of **$3,000/month**. For an officially enrolled *undergraduate student*, the CIP offers an student stipend in the amount of **$2,000/month**. 
+The CIP is very flexible and adapts to different levels of experience as well as to different internship lengths. The following numbers are just indicative, as the final stipend might slightly change depending on the student experience as well as to adapt to differing regions' cost. For an officially enrolled *graduate student*, the CIP offers a student stipend in the range of **\$3,000/month**. For an officially enrolled *undergraduate student*, the CIP offers an student stipend in the amount of **\$2,000/month**. 
 
 In addition, the CIP might also offer some mobility grants to attend Codex meetings and related conferences that are within the scope of the research field of the student.
 
