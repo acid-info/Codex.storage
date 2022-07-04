@@ -1,3 +1,6 @@
+---
+_includes: [math]
+---
 # Codex Undergraduate and Graduate Student Internship Program
 
 
